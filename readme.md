@@ -275,7 +275,7 @@ Also watch out for ISO 3-letter country/region codes being inconsistent and chan
 Licensed under GNU General Public License v3.0 as per the original.
 
 
-# Adendum: using the file `nd_gain_operations.py` to generate the bins of climate risk
+# Addendum: using the file `nd_gain_operations.py` to generate the bins of climate risk
 
 Overview
 
