@@ -1,0 +1,238 @@
+country_code,country_name_english,parent_country_code,country_pop_percent,un_region
+BDI,Burundi,BDI,0.173486692990565,Africa Group
+COM,Comoros,COM,0.0106715998989642,Africa Group
+DJI,Djibouti,DJI,0.0143537239097434,Africa Group
+ERI,Eritrea,ERI,0.0435456183899156,Africa Group
+ETH,Ethiopia,ETH,1.63187536318715,Africa Group
+KEN,Kenya,KEN,0.695151008031835,Africa Group
+MDG,Madagascar,MDG,0.394676071543424,Africa Group
+MWI,Malawi,MWI,0.26759169508949,Africa Group
+MUS,Mauritius,MUS,0.0154913256892007,Africa Group
+MYT,Mayotte,FRA,0.0040473316469987,Africa Group
+MOZ,Mozambique,MOZ,0.428619251980883,Africa Group
+REU,Réunion,FRA,0.0107418330751306,Africa Group
+RWA,Rwanda,RWA,0.175757224097426,Africa Group
+SYC,Seychelles,SYC,0.00160583515351336,Africa Group
+SOM,Somalia,SOM,0.235848739385044,Africa Group
+SSD,South Sudan,SSD,0.147212299531871,Africa Group
+UGA,Uganda,UGA,0.61849713856761,Africa Group
+TZA,United Republic of Tanzania,TZA,0.848386818037813,Africa Group
+ZMB,Zambia,ZMB,0.263662480102496,Africa Group
+ZWE,Zimbabwe,ZWE,0.204835918361922,Africa Group
+AGO,Angola,AGO,0.469183028586578,Africa Group
+CMR,Cameroon,CMR,0.359887945859955,Africa Group
+CAF,Central African Republic,CAF,0.0661356919073607,Africa Group
+TCD,Chad,TCD,0.252871177593744,Africa Group
+COG,Congo,COG,0.0781787113822742,Africa Group
+COD,Democratic Republic of the Congo,COD,1.35460092008811,Africa Group
+GNQ,Equatorial Guinea,GNQ,0.0233673231069422,Africa Group
+GAB,Gabon,GAB,0.0313047089809054,Africa Group
+STP,Sao Tome and Principe,STP,0.00290214170780967,Africa Group
+DZA,Algeria,DZA,0.574986337875242,Africa Group
+EGY,Egypt,EGY,1.43343150562971,Africa Group
+LBY,Libya,LBY,0.090515107167844,Africa Group
+MAR,Morocco,MAR,0.466770176786099,Africa Group
+SDN,Sudan,SDN,0.62034245213838,Africa Group
+TUN,Tunisia,TUN,0.150225530922184,Africa Group
+ESH,Western Sahara,ESH,0.00726888364113586,Africa Group
+BWA,Botswana,BWA,0.0310080753733868,Africa Group
+SWZ,Eswatini,SWZ,0.0152414288018303,Africa Group
+LSO,Lesotho,LSO,0.0286739354806073,Africa Group
+NAM,Namibia,NAM,0.0373565469580616,Africa Group
+ZAF,South Africa,ZAF,0.785490294366796,Africa Group
+BEN,Benin,BEN,0.17857239475905,Africa Group
+BFA,Burkina Faso,BFA,0.290492883155936,Africa Group
+CPV,Cabo Verde,CPV,0.00641870476084115,Africa Group
+CIV,Côte d'Ivoire,CIV,0.394299713460268,Africa Group
+GMB,Gambia,GMB,0.0340499758559336,Africa Group
+GHA,Ghana,GHA,0.423892292053347,Africa Group
+GIN,Guinea,GIN,0.182116199549511,Africa Group
+GNB,Guinea-Bissau,GNB,0.0271479955973239,Africa Group
+LBR,Liberia,LBR,0.0691991613069584,Africa Group
+MLI,Mali,MLI,0.302975515711126,Africa Group
+MRT,Mauritania,MRT,0.0639536689980133,Africa Group
+NER,Niger,NER,0.335152497072767,Africa Group
+NGA,Nigeria,NGA,2.86798052027509,Africa Group
+SHN,Saint Helena,GBR,6.36331851456788E-05,Africa Group
+SEN,Senegal,SEN,0.228326689360062,Africa Group
+SLE,Sierra Leone,SLE,0.106516535305376,Africa Group
+TGO,Togo,TGO,0.117336848495545,Africa Group
+KAZ,Kazakhstan,KAZ,0.252787390646739,Asia and the Pacific Group
+KGZ,Kyrgyzstan,KGZ,0.0883425755579681,Asia and the Pacific Group
+TJK,Tajikistan,TJK,0.130415688372679,Asia and the Pacific Group
+TKM,Turkmenistan,TKM,0.0922082671563406,Asia and the Pacific Group
+UZB,Uzbekistan,UZB,0.447887639074805,Asia and the Pacific Group
+CHN,China,CHN,17.2958027122018,Asia and the Pacific Group
+HKG,"China, Hong Kong SAR",CHN,0.0902373829615861,Asia and the Pacific Group
+MAC,"China, Macao SAR",CHN,0.00880393663586562,Asia and the Pacific Group
+TWN,"China, Taiwan Province of China",TWN,0.282587411471455,Asia and the Pacific Group
+PRK,Dem. People's Republic of Korea,PRK,0.323745199468624,Asia and the Pacific Group
+JPN,Japan,JPN,1.50585813574346,Asia and the Pacific Group
+MNG,Mongolia,MNG,0.0426597312402724,Asia and the Pacific Group
+KOR,Republic of Korea,KOR,0.630684577069701,Asia and the Pacific Group
+AFG,Afghanistan,AFG,0.527637319114591,Asia and the Pacific Group
+BGD,Bangladesh,BGD,2.13026312024753,Asia and the Pacific Group
+BTN,Bhutan,BTN,0.00968579791298229,Asia and the Pacific Group
+IND,India,IND,17.7801481404925,Asia and the Pacific Group
+IRN,Iran (Islamic Republic of),IRN,1.12261696953002,Asia and the Pacific Group
+MDV,Maldives,MDV,0.00645059455109629,Asia and the Pacific Group
+NPL,Nepal,NPL,0.361452094933399,Asia and the Pacific Group
+PAK,Pakistan,PAK,3.08897559558029,Asia and the Pacific Group
+LKA,Sri Lanka,LKA,0.282649092718406,Asia and the Pacific Group
+BRN,Brunei Darussalam,BRN,0.00566762334276621,Asia and the Pacific Group
+KHM,Cambodia,KHM,0.216476265186892,Asia and the Pacific Group
+IDN,Indonesia,IDN,3.47228110255647,Asia and the Pacific Group
+LAO,Lao People's Democratic Republic,LAO,0.0954249393049912,Asia and the Pacific Group
+MYS,Malaysia,MYS,0.436393663215206,Asia and the Pacific Group
+MMR,Myanmar,MMR,0.667071230338067,Asia and the Pacific Group
+PHL,Philippines,PHL,1.41901383134487,Asia and the Pacific Group
+SGP,Singapore,SGP,0.0713959579485166,Asia and the Pacific Group
+THA,Thailand,THA,0.874063454823621,Asia and the Pacific Group
+TLS,Timor-Leste,TLS,0.0171959777138184,Asia and the Pacific Group
+VNM,Viet Nam,VNM,1.23582185765822,Asia and the Pacific Group
+ARM,Armenia,ARM,0.0361504199483582,Eastern European Group
+AZE,Azerbaijan,AZE,0.126490060072117,Eastern European Group
+BHR,Bahrain,BHR,0.0198401463899772,Asia and the Pacific Group
+CYP,Cyprus,CYP,0.0166491422285864,Asia and the Pacific Group
+GEO,Georgia,GEO,0.0464500414254902,Eastern European Group
+IRQ,Iraq,IRQ,0.567600777128521,Asia and the Pacific Group
+ISR,Israel,ISR,0.115313493762196,Western European and Others Group
+JOR,Jordan,JOR,0.141208198643188,Asia and the Pacific Group
+KWT,Kuwait,KWT,0.0608135128265932,Asia and the Pacific Group
+LBN,Lebanon,LBN,0.0710765598618028,Asia and the Pacific Group
+OMN,Oman,OMN,0.0658526852683635,Asia and the Pacific Group
+QAT,Qatar,QAT,0.0376284153497356,Asia and the Pacific Group
+SAU,Saudi Arabia,SAU,0.418010882679811,Asia and the Pacific Group
+PSE,State of Palestine,PSE,0.0675914718121601,Asia and the Pacific Group
+SYR,Syrian Arab Republic,SYR,0.307075147102128,Asia and the Pacific Group
+TUR,Türkiye,TUR,1.06839257786828,Western European and Others Group
+ARE,United Arab Emirates,ARE,0.136820217182381,Asia and the Pacific Group
+YEM,Yemen,YEM,0.502368722808761,Asia and the Pacific Group
+BLR,Belarus,BLR,0.110131939628739,Eastern European Group
+BGR,Bulgaria,BGR,0.0821906885487223,Eastern European Group
+CZE,Czechia,CZE,0.130293875229719,Eastern European Group
+HUN,Hungary,HUN,0.117879340918294,Eastern European Group
+POL,Poland,POL,0.468058480393797,Eastern European Group
+MDA,Republic of Moldova,MDA,0.0368001957741307,Eastern European Group
+ROU,Romania,ROU,0.231333198763217,Eastern European Group
+RUS,Russian Federation,RUS,1.7620544400518,Eastern European Group
+SVK,Slovakia,SVK,0.0670240189797472,Eastern European Group
+UKR,Ukraine,UKR,0.466991245986257,Eastern European Group
+DNK,Denmark,DNK,0.0730869220065443,Western European and Others Group
+EST,Estonia,EST,0.0165166422240106,Eastern European Group
+FRO,Faroe Islands,DNK,0.000679786875515244,Western European and Others Group
+FIN,Finland,FIN,0.0685932674917245,Western European and Others Group
+GGY,Guernsey,GBR,0.000785545326824272,Western European and Others Group
+ISL,Iceland,ISL,0.00483166921206503,Western European and Others Group
+IRL,Ireland,IRL,0.0644458014153401,Western European and Others Group
+IMN,Isle of Man,GBR,0.00102657309502273,Western European and Others Group
+JEY,Jersey,GBR,0.00126784485549553,Western European and Others Group
+LVA,Latvia,LVA,0.02274068994839,Eastern European Group
+LTU,Lithuania,LTU,0.0347860517491371,Eastern European Group
+NOR,Norway,NOR,0.0683610356450157,Western European and Others Group
+SWE,Sweden,SWE,0.129717516679293,Western European and Others Group
+GBR,United Kingdom,GBR,0.846083957954603,Western European and Others Group
+ALB,Albania,ALB,0.0339377150105136,Eastern European Group
+AND,Andorra,AND,0.001005943548228,Western European and Others Group
+BIH,Bosnia and Herzegovina,BIH,0.0384632593155885,Eastern European Group
+HRV,Croatia,HRV,0.0471065514380342,Eastern European Group
+GIB,Gibraltar,GBR,0.000484800449483153,Western European and Others Group
+GRC,Greece,GRC,0.121497319360152,Western European and Others Group
+VAT,Holy See,VAT,6.09980685828976E-06,Western European and Others Group
+ITA,Italy,ITA,0.72283434707827,Western European and Others Group
+KOS,Kosovo (under UNSC res. 1244),KOS,0.0204789913618597,Eastern European Group
+MLT,Malta,MLT,0.00662219431763369,Western European and Others Group
+MNE,Montenegro,MNE,0.00777752213582121,Eastern European Group
+MKD,North Macedonia,MKD,0.0221850707412822,Eastern European Group
+PRT,Portugal,PRT,0.127119169752253,Western European and Others Group
+SMR,San Marino,SMR,0.000409358038259826,Western European and Others Group
+SRB,Serbia,SRB,0.0819094020552591,Eastern European Group
+SVN,Slovenia,SVN,0.0258408435864335,Eastern European Group
+ESP,Spain,ESP,0.584425398600806,Western European and Others Group
+AUT,Austria,AUT,0.111222304503886,Western European and Others Group
+BEL,Belgium,BEL,0.143343570229683,Western European and Others Group
+FRA,France,FRA,0.812505277575768,Western European and Others Group
+DEU,Germany,DEU,1.02975623043328,Western European and Others Group
+LIE,Liechtenstein,LIE,0.000488033347118047,Western European and Others Group
+LUX,Luxembourg,LUX,0.00825752813711374,Western European and Others Group
+MCO,Monaco,MCO,0.000469502133882563,Western European and Others Group
+NLD,Netherlands,NLD,0.223154467931099,Western European and Others Group
+CHE,Switzerland,CHE,0.109136438949853,Western European and Others Group
+AIA,Anguilla,GBR,0.000179017131677088,Latin American and Caribbean Group
+ATG,Antigua and Barbuda,ATG,0.00114669049167618,Latin American and Caribbean Group
+ABW,Aruba,NLD,0.00131904663426401,Latin American and Caribbean Group
+BHS,Bahamas,BHS,0.00490668463680828,Latin American and Caribbean Group
+BRB,Barbados,BRB,0.00344711065214299,Latin American and Caribbean Group
+BES,"Bonaire, Sint Eustatius and Saba",NLD,0.000378517414784313,Latin American and Caribbean Group
+VGB,British Virgin Islands,GBR,0.000483287697382298,Latin American and Caribbean Group
+CYM,Cayman Islands,CYM,0.0009169107673244,Latin American and Caribbean Group
+CUB,Cuba,CUB,0.133695237330425,Latin American and Caribbean Group
+CUW,Curaçao,NLD,0.00226306494326665,Latin American and Caribbean Group
+DMA,Dominica,DMA,0.000805869883276093,Latin American and Caribbean Group
+DOM,Dominican Republic,DOM,0.139992104549078,Latin American and Caribbean Group
+GRD,Grenada,GRD,0.00143052670440611,Latin American and Caribbean Group
+GLP,Guadeloupe,FRA,0.0045682185538555,Latin American and Caribbean Group
+HTI,Haiti,HTI,0.14444243823559,Latin American and Caribbean Group
+JAM,Jamaica,JAM,0.034628945123695,Latin American and Caribbean Group
+MTQ,Martinique,FRA,0.00416998656330519,Latin American and Caribbean Group
+MSR,Montserrat,GBR,5.33489107826022E-05,Latin American and Caribbean Group
+PRI,Puerto Rico,USA,0.0395313232968613,Latin American and Caribbean Group
+BLM,Saint Barthélemy,FRA,0.000138319220318579,Latin American and Caribbean Group
+KNA,Saint Kitts and Nevis,KNA,0.000571954489874397,Latin American and Caribbean Group
+LCA,Saint Lucia,LCA,0.00219549128289052,Latin American and Caribbean Group
+MAF,Saint Martin (French part),FRA,0.000310919355180746,Latin American and Caribbean Group
+VCT,Saint Vincent and the Grenadines,VCT,0.00122320646890656,Latin American and Caribbean Group
+SXM,Sint Maarten (Dutch part),NLD,0.000532452140660113,Latin American and Caribbean Group
+TTO,Trinidad and Tobago,TTO,0.0184190743862015,Latin American and Caribbean Group
+TCA,Turks and Caicos Islands,GBR,0.000569709760950547,Latin American and Caribbean Group
+VIR,United States Virgin Islands,USA,0.00103095275634699,Latin American and Caribbean Group
+BLZ,Belize,BLZ,0.00512439894319436,Latin American and Caribbean Group
+CRI,Costa Rica,CRI,0.0627273028291541,Latin American and Caribbean Group
+SLV,El Salvador,SLV,0.0774968383728134,Latin American and Caribbean Group
+GTM,Guatemala,GTM,0.226272652598215,Latin American and Caribbean Group
+HND,Honduras,HND,0.133171166324388,Latin American and Caribbean Group
+MEX,Mexico,MEX,1.6031953400993,Latin American and Caribbean Group
+NIC,Nicaragua,NIC,0.0849362604140934,Latin American and Caribbean Group
+PAN,Panama,PAN,0.055430970057156,Latin American and Caribbean Group
+ARG,Argentina,ARG,0.558431706054118,Latin American and Caribbean Group
+BOL,Bolivia (Plurinational State of),BOL,0.15246840550475,Latin American and Caribbean Group
+BRA,Brazil,BRA,2.5914747504371,Latin American and Caribbean Group
+CHL,Chile,CHL,0.241736712150759,Latin American and Caribbean Group
+COL,Colombia,COL,0.648568381204473,Latin American and Caribbean Group
+ECU,Ecuador,ECU,0.222189100298092,Latin American and Caribbean Group
+FLK,Falkland Islands (Malvinas),GBR,4.23448592102475E-05,Latin American and Caribbean Group
+GUF,French Guiana,FRA,0.00379510463340842,Latin American and Caribbean Group
+GUY,Guyana,GUY,0.0101688782169314,Latin American and Caribbean Group
+PRY,Paraguay,PRY,0.0850500950096828,Latin American and Caribbean Group
+PER,Peru,PER,0.419676532539377,Latin American and Caribbean Group
+SUR,Suriname,SUR,0.00777259349187971,Latin American and Caribbean Group
+URY,Uruguay,URY,0.0413041833617684,Latin American and Caribbean Group
+VEN,Venezuela (Bolivarian Republic of),VEN,0.347202970511661,Latin American and Caribbean Group
+BMU,Bermuda,GBR,0.000788107245704753,Western European and Others Group
+CAN,Canada,CAN,0.487330356577243,Western European and Others Group
+GRL,Greenland,DNK,0.000680689646930271,Western European and Others Group
+SPM,Saint Pierre and Miquelon,FRA,6.83422360402785E-05,Western European and Others Group
+USA,United States of America,USA,4.22562375563262,Western European and Others Group
+AUS,Australia,AUS,0.327498191035483,Western European and Others Group
+NZL,New Zealand,NZL,0.0638475689575202,Western European and Others Group
+FJI,Fiji,FJI,0.0113581331608647,Asia and the Pacific Group
+NCL,New Caledonia,FRA,0.00358680842881154,Asia and the Pacific Group
+PNG,Papua New Guinea,PNG,0.130169170778308,Asia and the Pacific Group
+SLB,Solomon Islands,SLB,0.0101117352262829,Asia and the Pacific Group
+VUT,Vanuatu,VUT,0.00404380595863461,Asia and the Pacific Group
+GUM,Guam,USA,0.00205440275025827,Asia and the Pacific Group
+KIR,Kiribati,KIR,0.00165315745511997,Asia and the Pacific Group
+MHL,Marshall Islands,MHL,0.000450336540733816,Asia and the Pacific Group
+FSM,Micronesia (Fed. States of),FSM,0.00138377778464418,Asia and the Pacific Group
+NRU,Nauru,NRU,0.000146248969234355,Asia and the Pacific Group
+MNP,Northern Mariana Islands,USA,0.000535404447179525,Asia and the Pacific Group
+PLW,Palau,PLW,0.000215737968963992,Asia and the Pacific Group
+ASM,American Samoa,USA,0.000565927880698407,Asia and the Pacific Group
+COK,Cook Islands,NZL,0.000164584988650374,Asia and the Pacific Group
+PYF,French Polynesia,FRA,0.00344208441129176,Asia and the Pacific Group
+NIU,Niue,NZL,2.22276961916079E-05,Asia and the Pacific Group
+WSM,Samoa,WSM,0.00266801892097479,Asia and the Pacific Group
+TKL,Tokelau,NZL,3.12310111144436E-05,Asia and the Pacific Group
+TON,Tonga,TON,0.00126841823734021,Asia and the Pacific Group
+TUV,Tuvalu,TUV,0.000116677105585366,Asia and the Pacific Group
+WLF,Wallis and Futuna Islands,FRA,0.000137062660105771,Asia and the Pacific Group
